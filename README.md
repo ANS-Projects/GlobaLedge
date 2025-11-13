@@ -4,7 +4,7 @@
 
 Also available at [Sabeeir's github](https://github.com/SabeeirSharrma/GlobaLedge)
 
-![GitHub License](https://img.shields.io/github/license/SabeeirSharrma/GlobaLedge)
+![GitHub License](https://img.shields.io/github/license/ANS-Projects/GlobaLedge)
 
 [Discord](https://discord.gg/CN5datVbF4)
 
